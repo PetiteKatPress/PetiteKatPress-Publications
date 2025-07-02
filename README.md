@@ -12,17 +12,17 @@ Build your home budget using Excel and LibreOffice. Includes:
 
 ---
 
-## 🐨 [Australian Slang Word Puzzle Book](https://www.amazon.com/dp/B0C123ABCXYZ)
+## 🐨 [Australian Slang Word Puzzle Book](https://www.amazon.com/dp/B0DX7CQQNN)
 A fun word search book packed with Aussie slang, humour, and uniquely themed puzzles. Great for all ages!
 
 ---
 
-## 🔬 [Periodic Table Word Search Puzzles](https://www.amazon.com/dp/B0CXYZABC123)
+## 🔬 [Periodic Table Word Search Puzzles](https://www.amazon.com/dp/B0DYK9GP2V)
 Educational and fun — word searches featuring all 118 chemical elements and symbols. Great for students and puzzle lovers.
 
 ---
 
-## 🐘 [The MySQL Workshop (Packt Publishing)](https://www.packtpub.com/product/the-mysql-workshop/9781838985312)
+## 🐘 [The MySQL Workshop (Packt Publishing)](https://www.amazon.com/MySQL-Workshop-Interactive-Approach-Learning-ebook/dp/B084T32T3B)
 A hands-on guide co-authored with [Scott Cosentino], published by Packt.
 - Build real-world MySQL databases
 - Learn joins, stored procedures, and triggers
