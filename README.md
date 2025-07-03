@@ -3,6 +3,20 @@
 Welcome to the official catalog of books published by **PetiteKat Press**.
 
 ---
+<div style="display: flex; align-items: flex-start; gap: 16px;">
+  <img src="https://github.com/user-attachments/assets/01dc2b0b-f324-4b3d-8a8a-3f1dc3cb5a67" width="120" alt="Excel Book Cover" />
+  <div>
+    <h3><a href="https://www.amazon.com/dp/B0FF377S6T">Mastering Excel for Home Budgeting</a></h3>
+    <p>Build your home budget using Excel and LibreOffice. Includes:</p>
+    <ul>
+      <li>Templates and real tools</li>
+      <li>Spreadsheet formulas, planning logic, and charts</li>
+      <li>Free sample downloads on <a href="https://github.com/PetiteKatPress/Mastering-Excel-for-Home-Budgeting-Samples">GitHub</a></li>
+    </ul>
+  </div>
+</div>
+
+
 
 ## <img src="https://github.com/user-attachments/assets/01dc2b0b-f324-4b3d-8a8a-3f1dc3cb5a67" height="120" alt="Excel Book Cover" />
  [Mastering Excel for Home Budgeting](https://www.amazon.com/dp/B0FF377S6T)
