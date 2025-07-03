@@ -1,4 +1,5 @@
-# 📚 PetiteKat Press Publications
+# <img src="https://github.com/user-attachments/assets/19eaf77e-a3d3-46b2-b647-1ee32ed3c7b9" height="120" alt="PetiteKatPress Publications" />
+PetiteKat Press Publications
 
 Welcome to the official catalog of books published by **PetiteKat Press**.
 
