@@ -13,12 +13,12 @@ Build your home budget using Excel and LibreOffice. Includes:
 ---
 
 ## 🐨 [Australian Slang Word Puzzle Book](https://www.amazon.com/dp/B0DX7CQQNN)
-A fun word search book packed with Aussie slang, humour, and uniquely themed puzzles. Great for all ages!
+A fun word search book packed with Aussie slang, humour, and uniquely themed puzzles. Includes glossary explaining all the meanings. Great for all ages!
 
 ---
 
 ## 🔬 [Periodic Table Word Search Puzzles](https://www.amazon.com/dp/B0DYK9GP2V)
-Educational and fun — word searches featuring all 118 chemical elements and symbols. Great for students and puzzle lovers.
+Educational and fun — word searches featuring all 118 chemical elements and symbols. Includes glossary explaining all the elements. Great for students and puzzle lovers.
 
 ---
 
