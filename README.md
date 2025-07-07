@@ -5,9 +5,8 @@
 Welcome to the official catalog of books published by **PetiteKat Press**.
 
 ---
-## <a href="https://www.amazon.com/dp/B0FF377S6T">
-  <img src="https://github.com/user-attachments/assets/01dc2b0b-f324-4b3d-8a8a-3f1dc3cb5a67" height="120" alt="Excel Book Cover" />
-</a>
+## <img src="https://github.com/user-attachments/assets/01dc2b0b-f324-4b3d-8a8a-3f1dc3cb5a67" height="120" alt="Excel Book Cover" />
+
 [Mastering Excel for Home Budgeting](https://www.amazon.com/dp/B0FF377S6T)
 Build your home budget using Excel and LibreOffice. Includes:
 - Templates and real tools
