@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/eb431e4e-bb22-4a4f-9abc-2b799232af82" height="60" style="max-width: 100px;" alt="PetiteKatPress Publications" />
+<img src="https://github.com/user-attachments/assets/eb431e4e-bb22-4a4f-9abc-2b799232af82" height="60" style="max-width: 60px;" alt="PetiteKatPress Publications" />
 
 ## Publications
 
