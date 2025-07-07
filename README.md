@@ -1,4 +1,4 @@
-## <img src="https://github.com/user-attachments/assets/eb431e4e-bb22-4a4f-9abc-2b799232af82" height="120" alt="PetiteKatPress Publications" />
+# <img src="https://github.com/user-attachments/assets/eb431e4e-bb22-4a4f-9abc-2b799232af82" height="120" alt="PetiteKatPress Publications" />
 ## Publications
 
 Welcome to the official catalog of books published by **PetiteKat Press**.
