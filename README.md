@@ -11,8 +11,8 @@ Welcome to the official catalog of books published by **PetiteKat Press**.
 Build your home budget using Excel and LibreOffice. Includes:
 - Templates and real tools
 - Spreadsheet formulas, planning logic, and charts
+-🆕 Includes access to a **GPT-powered Excel Companion Agent** — an interactive browser-based tool that answers your spreadsheet questions while you learn. Available exclusively to book owners.
 - Free sample downloads on [GitHub](https://github.com/PetiteKatPress/Mastering-Excel-for-Home-Budgeting-Samples)
-- 🆕 Includes access to a GPT-powered Excel Companion Agent — an interactive browser-based tool that answers your spreadsheet questions while you learn. Available exclusively to book owners.
 
 ---
 
