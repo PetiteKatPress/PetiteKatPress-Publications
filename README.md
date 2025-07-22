@@ -20,7 +20,7 @@ Try the Excel Book Concierge — a free, GPT-powered assistant that answers ques
 - See if it suits your needs
 - No account or signup required
 - No hard sell, just information
-🔗 Visit: [Concierge](https://excel-book-concierge-ncxabfsp9hpt9nasubbxa7.streamlit.app/)
+- 🔗 Visit: [Concierge](https://excel-book-concierge-ncxabfsp9hpt9nasubbxa7.streamlit.app/)
 
 ---
 
