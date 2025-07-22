@@ -14,6 +14,14 @@ Build your home budget using Excel and LibreOffice. Includes:
 - 🆕 Includes access to a **GPT-powered Excel Companion Agent** — an interactive browser-based tool that answers your spreadsheet questions while you learn. Available exclusively to book owners.
 - Free sample downloads on [GitHub](https://github.com/PetiteKatPress/Mastering-Excel-for-Home-Budgeting-Samples)
 
+Not sure if this book is right for you?
+Try the Excel Book Concierge — a free, GPT-powered assistant that answers questions about the book’s content.
+✅ Ask what’s covered
+✅ See if it suits your needs
+✅ No account or signup required
+✅ No hard sell, just information
+🔗 Visit: [Concierge](https://excel-book-concierge-ncxabfsp9hpt9nasubbxa7.streamlit.app/)
+
 ---
 
 ## <img src="https://github.com/user-attachments/assets/c0e9ff51-5f51-41c3-84f9-789b73d15d34" height="120" alt="Excel Book Cover" />
