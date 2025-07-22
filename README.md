@@ -16,10 +16,10 @@ Build your home budget using Excel and LibreOffice. Includes:
 
 Not sure if this book is right for you?
 Try the Excel Book Concierge — a free, GPT-powered assistant that answers questions about the book’s content.
-✅ Ask what’s covered
-✅ See if it suits your needs
-✅ No account or signup required
-✅ No hard sell, just information
+- Ask what’s covered
+- See if it suits your needs
+- No account or signup required
+- No hard sell, just information
 🔗 Visit: [Concierge](https://excel-book-concierge-ncxabfsp9hpt9nasubbxa7.streamlit.app/)
 
 ---
