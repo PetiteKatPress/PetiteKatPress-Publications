@@ -15,7 +15,7 @@ Build your home budget using Excel and LibreOffice. Includes:
 - Free sample downloads on [GitHub](https://github.com/PetiteKatPress/Mastering-Excel-for-Home-Budgeting-Samples)
 
 Not sure if this book is right for you?
-Try the [Excel Book Concierge](https://excel-book-concierge-ncxabfsp9hpt9nasubbxa7.streamlit.app/) — a free, GPT-powered assistant that answers questions about the book’s content.
+Try the <a href="https://excel-book-concierge-ncxabfsp9hpt9nasubbxa7.streamlit.app/" target="_blank" rel="noopener noreferrer">Excel Book Concierge</a> — a free, GPT-powered assistant that answers questions about the book’s content.
 - Ask what’s covered
 - See if it suits your needs
 - No account or signup required
