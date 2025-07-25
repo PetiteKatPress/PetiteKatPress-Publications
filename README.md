@@ -4,6 +4,11 @@
 
 Welcome to the official catalog of books published by **PetiteKat Press**.
 
+## 🦘 Bazza ChatBot – Aussie AI Mate
+Bazza is a friendly, PG-rated AI assistant with a dash of Aussie slang. He answers questions based on my published books, including Excel budgeting tips, Australian slang puzzles, and more.
+
+🔗 Try it live: [Bazza and team](https://chatbot-bazza-7lb6eswutzya6xsnwwa6s9.streamlit.app/)
+
 ---
 ## <img src="https://github.com/user-attachments/assets/01dc2b0b-f324-4b3d-8a8a-3f1dc3cb5a67" height="120" alt="Excel Book Cover" />
 
