@@ -15,8 +15,11 @@ No sales, no upsells — just helpful answers straight from the pages.
 ## <img src="https://github.com/user-attachments/assets/01dc2b0b-f324-4b3d-8a8a-3f1dc3cb5a67" height="120" alt="Excel Book Cover" />
 
 Purchase from
+
 [Amazon - Paperback, Kindle](https://www.amazon.com/dp/B0FF377S6T)
+
 [Gumroad - PDF Companion Version](https://petitekatpress.gumroad.com/l/yuyico)
+
 Build your home budget using Excel and LibreOffice. Includes:
 - Templates and real tools
 - Spreadsheet formulas, planning logic, and charts
