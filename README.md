@@ -16,9 +16,9 @@ No sales, no upsells — just helpful answers straight from the pages.
 
 Purchase from
 
-[Amazon - Paperback, Kindle](https://www.amazon.com/dp/B0FF377S6T)
+[Amazon - Paperback or Kindle version](https://www.amazon.com/dp/B0FF377S6T)
 
-[Gumroad - PDF Companion Version](https://petitekatpress.gumroad.com/l/yuyico)
+[Gumroad - High-Resolution PDF](https://petitekatpress.gumroad.com/l/yuyico)
 
 Build your home budget using Excel and LibreOffice. Includes:
 - Templates and real tools
