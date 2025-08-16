@@ -59,3 +59,5 @@ A hands-on guide co-authored with [Scott Cosentino], published by Packt.
 ---
 
 > Follow along for updates, new titles, and bonus material.
+
+⚠️**Notice:** PetiteKat Press is not affiliated with or responsible for content on third-party websites such as SolutionInn.com. Any offers to provide our publications outside of our official sales channels are unauthorized.
