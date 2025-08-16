@@ -14,9 +14,7 @@ No sales, no upsells — just helpful answers straight from the pages.
 ---
 ## <img src="https://github.com/user-attachments/assets/01dc2b0b-f324-4b3d-8a8a-3f1dc3cb5a67" height="120" alt="Excel Book Cover" />
 
-<div style="border:1px solid #ccc; padding:8px; background:#f9f9f9; font-style:italic;">
-⚠️ To be safe, please purchase only from our official links below. We can’t take responsibility for unauthorized sellers or how others may misuse our books in their promotions.
-</div>
+⚠️ ***To be safe, please purchase only from our official links below. We can’t take responsibility for unauthorized sellers or how others may misuse our books in their promotions.***
 
 [Amazon - Paperback or Kindle version](https://www.amazon.com/dp/B0FF377S6T) **(Official purchase link)**
 
