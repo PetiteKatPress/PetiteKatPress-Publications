@@ -14,11 +14,11 @@ No sales, no upsells — just helpful answers straight from the pages.
 ---
 ## <img src="https://github.com/user-attachments/assets/01dc2b0b-f324-4b3d-8a8a-3f1dc3cb5a67" height="120" alt="Excel Book Cover" />
 
-Purchase from
+To be safe, please purchase only from our official links below. We can’t take responsibility for unauthorized sellers or how others may misuse our books in their promotions.
 
-[Amazon - Paperback or Kindle version](https://www.amazon.com/dp/B0FF377S6T)
+[Amazon - Paperback or Kindle version](https://www.amazon.com/dp/B0FF377S6T) **(Official purchase link)**
 
-[Gumroad - High-Resolution PDF](https://petitekatpress.gumroad.com/l/yuyico)
+[Gumroad - High-Resolution PDF](https://petitekatpress.gumroad.com/l/yuyico) **(Official purchase link)**
 
 Build your home budget using Excel and LibreOffice. Includes:
 - Templates and real tools
@@ -37,14 +37,14 @@ Try the <a href="https://excel-book-concierge-ncxabfsp9hpt9nasubbxa7.streamlit.a
 
 ## <img src="https://github.com/user-attachments/assets/c0e9ff51-5f51-41c3-84f9-789b73d15d34" height="120" alt="Excel Book Cover" />
 
-[Australian Slang Word Puzzle Book](https://www.amazon.com/dp/B0DX7CQQNN)
+[Australian Slang Word Puzzle Book](https://www.amazon.com/dp/B0DX7CQQNN) **(Official purchase link)**
 A fun word search book packed with Aussie slang, humour, and uniquely themed puzzles. Includes glossary explaining all the meanings. Great for all ages!
 
 ---
 
 ## <img src="https://github.com/user-attachments/assets/23befb43-12ff-4a31-a03a-02fce58ff6ee" height="120" alt="Excel Book Cover" />
 
-[Periodic Table Word Search Puzzles](https://www.amazon.com/dp/B0DYK9GP2V)
+[Periodic Table Word Search Puzzles](https://www.amazon.com/dp/B0DYK9GP2V) **(Official purchase link)**
 Educational and fun — word searches featuring all 118 chemical elements and symbols. Includes glossary explaining all the elements. Great for students and puzzle lovers.
 
 ---
